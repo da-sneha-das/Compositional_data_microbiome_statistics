@@ -4,3 +4,4 @@ Scripts and concepts for statistical analysis of microbiome data. Important to n
 ## CLR (Centred Log Ratio)- available tools and packages
 - https://github.com/maxibor/microbiomeNormalization
 - https://search.r-project.org/CRAN/refmans/compositions/html/clr.html
+- https://cran.r-project.org/web/packages/compositions/index.html
