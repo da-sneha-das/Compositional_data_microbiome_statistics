@@ -5,3 +5,6 @@ Scripts and concepts for statistical analysis of microbiome data. Important to n
 - https://github.com/maxibor/microbiomeNormalization
 - https://search.r-project.org/CRAN/refmans/compositions/html/clr.html
 - https://cran.r-project.org/web/packages/compositions/index.html
+## Deal with zero values-
+- zcompositions R package
+- ALDEX2 (Bioconductor)
