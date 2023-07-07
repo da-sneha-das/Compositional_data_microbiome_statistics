@@ -8,5 +8,5 @@ Scripts and concepts for statistical analysis of microbiome data. Important to n
 - https://cran.r-project.org/web/packages/compositions/index.html
 ## Deal with zero count values in sparse data-
 - zcompositions R package
-- ALDEX2 (Bioconductor)
+- ALDEX2 (Bioconductor)- includes clr and it deals with compositional data using log-ratio transformation
 ## Deal with 
