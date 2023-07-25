@@ -1,4 +1,5 @@
 # Compositional_data_microbiome_statistics
+##CODA
 Scripts and concepts for statistical analysis of microbiome data. Important to note that microbiome data is compositional in nature.
 1. Normalisation methods-
 ## CLR (Centred Log Ratio)- available tools and packages
@@ -9,4 +10,4 @@ Scripts and concepts for statistical analysis of microbiome data. Important to n
 ## Deal with zero count values in sparse data-
 - zcompositions R package
 - ALDEX2 (Bioconductor)- includes clr and it deals with compositional data using log-ratio transformation
-## Deal with 
+
